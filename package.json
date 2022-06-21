@@ -1,0 +1,18 @@
+{
+  "name": "frontendmasters-courseheader-scraper",
+  "version": "1.0.0",
+  "description": "This is not a course scraper, it simply grabs the course section titles within a given course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "casperjs"
+  ],
+  "author": "Ryan Dennler",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.4.1"
+  }
+}
