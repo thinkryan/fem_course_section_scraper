@@ -8,7 +8,7 @@
   },
   "keywords": [
     "node",
-    "casperjs"
+    "puppeteer"
   ],
   "author": "Ryan Dennler",
   "license": "MIT",
